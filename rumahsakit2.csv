@@ -1,0 +1,15 @@
+ID,Usia,Gejala,Hasil Tes Darah,Riwayat Medis,Rawat Inap
+1,< 18,Demam,Normal,Tidak Ada,Tidak
+2,18-30,Batuk,Normal,Tidak Ada,Tidak
+3,30-50,Sesak Napas,Abnormal,Ada,Ya
+4,> 50,Nyeri Dada,Abnormal,Ada,Ya
+5,> 50,Demam,Normal,Ada,Tidak
+6,< 18,Batuk,Abnormal,Ada,Ya
+7,30-50,Sesak Napas,Normal,Tidak Ada,Tidak
+8,18-30,Nyeri Dada,Abnormal,Ada,Ya
+9,18-30,Demam,Abnormal,Ada,Ya
+10,30-50,Batuk,Normal,Tidak Ada,Tidak
+11,< 18,Sesak Napas,Abnormal,Tidak Ada,Ya
+12,> 50,Demam,Abnormal,Tidak Ada,Ya
+13,18-30,Nyeri Dada,Normal,Ada,Tidak
+14,30-50,Nyeri Dada,Abnormal,Ada,Ya
