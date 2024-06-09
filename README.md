@@ -1,5 +1,1 @@
-Tugas Kelompok Matakuliah Kecerdasan Buatan
-
-Kelas: PSTI-D
-Anggota: 1. Anastasia Citra Negara (2255061017)
-         2. Al Fatih Naufaldo (2215061092)
+A decision tree is a supervised learning algorithm used in machine learning for classification and regression tasks. It uses a tree-like model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility. Decision trees are popular because they are simple to understand, interpret, and visualize, and they can handle both categorical and numerical data.
